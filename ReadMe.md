@@ -9,8 +9,10 @@ Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to LuminousMint. The information that we request will be retained by us and used as described in this privacy policy. 
 The game does use third party services that may collect information used to identify you. 
-You can visit privacy policy of third party service providers used by the game:- 
--> Google Play Services
+You can visit privacy policy of third party service providers used by the game:-
+
+https://play.google.com/about/play-terms/index.html
+
 
 Log Data
 
