@@ -7,16 +7,11 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 Information Collection and Use
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to LuminousMint. The information that we request will be retained by us and used as described in this privacy policy. 
+We at LuminousMint do not collect any data explicitly in our game/app.
 The game does use third party services that may collect information used to identify you. 
 You can visit privacy policy of third party service providers used by the game:-
 
 https://play.google.com/about/play-terms/index.html
-
-
-Log Data
-
-We want to inform you that whenever you use our Service, in a case of an error in the game we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the game when utilizing our Service, the time and date of your use of the Service, and other statistics. 
 
 Cookies
 
